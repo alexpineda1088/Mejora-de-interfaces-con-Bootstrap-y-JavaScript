@@ -1,0 +1,22 @@
+/* Estilos personalizados */
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  /* Asegura que las imágenes del carrusel mantengan su proporción */
+  .carousel-img {
+    height: auto;
+    max-height: 500px;
+    object-fit: contain;
+    background-color: #000;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  footer {
+    font-size: 0.9rem;
+  }
+  
